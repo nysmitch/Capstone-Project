@@ -38,3 +38,7 @@ The Dataset includes the columns:
 - liveness_%: Presence of live performance elements
 - speechiness_%: Amount of spoken words in the song
 
+## Modeling
+
+After cleaning the data i created an initial visualisation to understand how normalised our data was.
+![download](https://github.com/nysmitch/Capstone-Project/assets/147038854/364db2c2-3209-4d12-bf87-59253d5fe444)
