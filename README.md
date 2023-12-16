@@ -6,7 +6,8 @@ Academy Xi not only teaches the up and coming Data scientists it also supports a
 Xi Records have tasked me to find if it is possible to predict if a song with certain characteristics would be popular ie. succesful.
 To do this I have found some data from one of the top Music software used today. Spotify of course.
 
-https://github.com/nysmitch/Capstone-Project/blob/main/Images/spotify%20banner.jpg?raw=true
+![image](https://github.com/nysmitch/Capstone-Project/assets/147038854/f5051294-3093-4404-9029-a4c189e51679)
+
 
 ## The Data
 
